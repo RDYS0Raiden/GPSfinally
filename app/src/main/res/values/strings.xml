@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjercicioGPS</string>
+    <string name="fab_texto">Habilitar GPS</string>
+
+    <string name="dialog_text_title">Habilitar GPS?</string>
+    <string name="dialog_text_description">Esta app requiere hacer uso de sus coordenadas,habilitarlas?</string>
+    <string name="dialog_button_acept">Habilitar!</string>
+    <string name="dialog_button_deny">Denegar!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
